@@ -1,0 +1,2 @@
+# NotSampo
+SberTech hackaton
