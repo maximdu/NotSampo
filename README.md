@@ -7,3 +7,4 @@ Features:
 3. different objective functions
 4. ??
 
+![plot](https://github.com/maximdu/notsampo/blob/main/notsampo/plots/wage.png/?raw=true)
