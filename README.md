@@ -1,4 +1,4 @@
-# NotSampo
+## NotSampo
 SberTech hackaton
 
 Features:
@@ -7,4 +7,12 @@ Features:
 3. different objective functions
 4. ??
 
+### Examples
+Target = time
+![plot](https://github.com/maximdu/notsampo/blob/main/notsampo/plots/time.png/?raw=true)
+
+Target = wage (cost)
 ![plot](https://github.com/maximdu/notsampo/blob/main/notsampo/plots/wage.png/?raw=true)
+
+Target = weighted time and cost
+![plot](https://github.com/maximdu/notsampo/blob/main/notsampo/plots/weighted.png/?raw=true)
