@@ -1,13 +1,13 @@
 ## NotSampo
-SberTech hackaton
+SberTech hackaton - our solution #2
 
 Features:
-1. multi-skill
-2. individual resource calendars
-3. different objective functions
-4. ??
+1. Uses ant colony optimization algorithm
+3. Supports individual resource calendars
+4. Objective functions: time, cost, workers
+5. Supports weights for objectives
 
-For testing, the IMOPSE dataset ([link](http://imopse.ii.pwr.wroc.pl/download.html)) was used
+For testing, the IMOPSE dataset [[link](http://imopse.ii.pwr.wroc.pl/download.html)] was used
 
 ### Examples
 Target: time
@@ -18,6 +18,6 @@ Target: wage (cost)
 
 ![plot](https://github.com/maximdu/notsampo/blob/main/notsampo/plots/wage.png/?raw=true)
 
-Target: weighted time and cost
+Target: weighted time and cost (time + cost/10^5)
 
 ![plot](https://github.com/maximdu/notsampo/blob/main/notsampo/plots/weighted.png/?raw=true)
