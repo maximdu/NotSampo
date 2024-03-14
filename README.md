@@ -1,13 +1,14 @@
 ## NotSampo
 SberTech hackaton (project optimization)
 
-Team «Мятная стекловата» our solution #2
+Team «Мятная стекловата»: our solution #2
 
 Features:
 1. Uses ant colony optimization algorithm
 3. Supports individual resource calendars
 4. Objective functions: time, cost, workers
 5. Supports weights for objectives
+6. Light, fast and expandable
 
 For testing, the IMOPSE dataset [[link](http://imopse.ii.pwr.wroc.pl/download.html)] was used
 
