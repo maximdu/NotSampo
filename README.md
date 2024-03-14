@@ -21,3 +21,7 @@ Target: wage (cost)
 Target: weighted time and cost (time + cost/10^5)
 
 ![plot](https://github.com/maximdu/notsampo/blob/main/notsampo/plots/weighted.png/?raw=true)
+
+Literature:
+1. Ant colony optimization for resource-constrained project scheduling (2002)
+2. Solving software project scheduling problems with ant colony optimization (2013)
