@@ -1,5 +1,7 @@
 ## NotSampo
-SberTech hackaton - our solution #2
+SberTech hackaton (project optimization)
+
+Team «Мятная стекловата» our solution #2
 
 Features:
 1. Uses ant colony optimization algorithm
